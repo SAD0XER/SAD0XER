@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning So many things like, web development, designning, programming in other languages.
 - 💞️ I’m looking to collaborate on so many sites like sololearn, geeksforgeeks, stackoverflow, github, hackerrank, etc.
 - 📫 How to reach me follow me on sololearn, linkedin, facebook, instagram.
+- Follow me on:
+  Instagram: sarvesha_d
+  LinkedIn:
+  Facebook:
+  Sololearn:
 
 <!---
 SAD0XER/SAD0XER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
