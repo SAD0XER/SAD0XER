@@ -10,17 +10,17 @@
 
 ## Hello, I am SARVESH ASHOK DEVRUKHAKAR:wave::smiley:
 
-🔭 I’m currently working on one :green_book:various real world projects:orange_book:
+🔭 I’m currently working on my skills to  :hammer_and_wrench:sharpen:hammer_and_pick: them.
 
-🌱 I’m currently learning many things at once specially learing **Web Development** From :woman_teacher:[**Shradha Khapra**](https://github.com/shradha-khapra):woman_teacher:
+🌱 I’m currently learning many things at once specially learning **Full Stack (MERN) Web Development** From :woman_teacher:[**Shradha Khapra**](https://github.com/shradha-khapra):woman_teacher:
 
 👯 I’m looking to collaborate with enthusiastic people like you who are reading this right now! :smile:
 
-🤔 I’m actively looking for **opportunities** and as well as **OS** projects for contribution.
+🤔 I’m actively looking for **Internship and Job** opportunities and **Open Source** projects for contribution.
 
-💬 Ask me **Anything**:smile:!
+💬 Ask me **Anything**:smiley::exclamation:
 
-📫 **How to reach me?** Just hit **[`👉Here👈`](https://biodrop.io/SAD0XER)** to know more otherwise
+📫 **How to reach me?** Just hit **[`👉▮Here▮👈`](https://biodrop.io/SAD0XER)** to know more otherwise
 [![Linkedin Badge](https://img.shields.io/badge/-Sarvesh_Devrukhakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarveshdevrukhakar)](https://www.linkedin.com/in/sarveshdevrukhakar)
 [![Gmail Badge](https://img.shields.io/badge/sarveshad65@gmail.com-white?style=flat-square&logo=Gmail&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
 
