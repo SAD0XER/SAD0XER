@@ -36,7 +36,7 @@
 <hr/>
 
 <!-- All GitHub Statistics -->
-<details align = "center" open>
+<details align = "center">
   <summary><h1>:chart_with_upwards_trend:GitHub Activities and Statistics:chart_with_downwards_trend:</h1></summary>
 
 <!-- (SAD0XER's WakaTime) -->
