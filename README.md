@@ -13,25 +13,22 @@
 
 ❤️‍🔥 A passionate **MERN Stack Developer** based in _Mumbai, India_.
 
-🌟 I love building robust and user-friendly **web applications and websites** contributing in **Open Source**.
+🌟 I love building robust and user-friendly **web applications and websites** also contributing in **Open Source**.
 
-🎯 I'm focused on mastering the **MERN Stack Development**.
-
-🔭 I’m currently working on myself to gain skills.
-
-🌱 I’m currently learning **MERN Stack Web Development** From :woman_teacher:[**Shradha Khapra**](https://github.com/shradha-khapra):woman_teacher:
+🌱 I’m currently learning **MERN Stack Web Development** From :woman_teacher:[**Shradha Khapra**](https://www.linkedin.com/in/shradha-khapra):woman_teacher:
 
 ```diff
 I opened my
-+ First PR: 23 December 2022.
++ First PR on 23 December 2022
 and
-+ First Issue: 24 December 2022.
++ First Issue on 24 December 2022.
 ```
 
 </details>
 
 <!-- Green Line SVG -->
-<img src = "Green Line.gif" alt = "Green Line GIF credit goes to random GitHub user">
+![Green Line gif](Green%20Line.gif)
+![Green Line gif](Green%20Line.gif)
 
 <!-- All GitHub Statistics -->
 <details align = "center">
@@ -42,7 +39,7 @@ and
 [![wakatime](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5.svg/?style=for-the-badge)](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5)
 
 <!-- GitHub Statistics -->
-<details align = "center" open>
+<details align = "center">
   <summary><h2>GitHub :bar_chart: Statistics</h2></summary>
 
 <!-- Github Readme Activity Graph by Ashutosh00710 -->
@@ -76,7 +73,7 @@ and
   </details>
 
 <!-- Top Languages -->
-<details align = "center" open>
+<details align = "center">
   <summary><h2>Language :bar_chart: Statistics</h2></summary>
 
 <!-- GitHub Top Languages by Repository @Casper-->
@@ -98,7 +95,7 @@ and
 </details>
 
 <!-- GitHub Commit Statistics -->
-<details align = "center" open>
+<details align = "center">
   <summary><h2>Commit :bar_chart: Statistics</h2></summary>
 
   <!-- GitHub Commit Statistics @Casper-->
