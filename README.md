@@ -36,7 +36,7 @@ and
 
 <!-- (SAD0XER's WakaTime) -->
 
-[![wakatime](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5.svg/?style=for-the-badge)](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5)
+[![wakatime](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5.svg?style=for-the-badge)](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5)
 
 <!-- GitHub Statistics -->
 <details align = "center">
