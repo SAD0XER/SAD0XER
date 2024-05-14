@@ -11,18 +11,14 @@
 
 ### Hello, I am SARVESH DEVRUKHAKAR :wave::smiley:
 
-❤️‍🔥 A passionate **MERN Stack Developer** based in _Mumbai, India_.
+❤️‍🔥 A passionate **MERN Stack Web Developer** based in _Mumbai, India_.
 
-🌟 I love building robust and user-friendly **web applications and websites** also contributing in **Open Source**.
+🌟 I love building robust and user-friendly **web websites and web applications** also contributing in **Open Source**.
 
 🌱 I’m currently learning **MERN Stack Web Development** From :woman_teacher:[**Shradha Khapra**](https://www.linkedin.com/in/shradha-khapra):woman_teacher:
 
-```diff
-I opened my
-+ First PR on 23 December 2022
-and
-+ First Issue on 24 December 2022.
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshdevrukhakar)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-00A9FF?style=for-the-badge&logo=me&logoColor=white)](https://sad0xer.github.io)
 
 </details>
 
@@ -34,17 +30,13 @@ and
 <details align = "center">
   <summary><h1>:chart_with_upwards_trend:GitHub Activities and Statistics:chart_with_downwards_trend:</h1></summary>
 
-<!-- (SAD0XER's WakaTime) -->
-
-[![wakatime](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5.svg?style=for-the-badge)](https://wakatime.com/badge/user/20baa14b-89a3-4e46-acd9-e4abaeefd2fe/project/ed5f4b50-6bae-4601-94d6-302ad4a9c2b5)
-
 <!-- GitHub Statistics -->
 <details align = "center">
   <summary><h2>GitHub :bar_chart: Statistics</h2></summary>
 
-<!-- Github Readme Activity Graph by Ashutosh00710 -->
+<!-- GitHub Readme Streak Stats @DenverCoder1-->
 
-[![Github Readme Activity Graph](https://github-readme-activity-graph-sad0xer.vercel.app/graph?username=sad0xer&theme=high-contrast&bg_color=00000000&area=true&area_color=000055&hide_border=true&point=0000ff&line=0000aa&custom_title=Daily%20Contribution%20Graph&title_color=2f80ed)](https://github.com/SAD0XER/Github-Readme-Activity-Graph-by-Ashutosh00710)
+[![GitHub Readme Streak Statistics](https://streak-stats.demolab.com?user=sad0xer&theme=highcontrast&hide_border=true&stroke=FFFFFF&border=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=BBBBBB&background=FFFFFF00&border_radius=100&mode=weekly)](https://git.io/streak-stats)
 
 <!-- GitHub Stats -->
 
@@ -57,14 +49,6 @@ and
 <!-- GitHub | Dependencies -->
 
 [![SAD0XER's GitHub | Dependencies](https://stats.quine.sh/SAD0XER/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SAD0XER)
-
-<!-- @sad0xer's GitHub Statistics by anuraghazra-->
-
-[![sad0xer's GitHub Statistics](https://github-readme-statistics-sad0xer.vercel.app/api?username=sad0xer&count_private=true&show_icons=true&theme=github_dark&hide_title=true&count_private=true&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true&hide_border=false&border_radius=30.0&border_color=2f353b&line_height=30&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&rank_icon=github&ring_color=000000&bg_color=000000,000000,000000,000000,000000,000000,000000,0000ff,0000ff,000000)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- GitHub Readme Streak Stats @DenverCoder1-->
-
-[![GitHub Readme Streak Statistics](https://streak-stats.demolab.com?user=sad0xer&theme=highcontrast&hide_border=true&stroke=FFFFFF&border=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=BBBBBB&background=FFFFFF00&border_radius=100&mode=weekly)](https://git.io/streak-stats)
 
 <!--   GitHub Profile Summary Card by Casper -->
 
@@ -79,10 +63,6 @@ and
 <!-- GitHub Top Languages by Repository @Casper-->
 
 ![Top Languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sad0xer&theme=github_dark)
-
-<!-- @sad0xer's GitHub Top Languages by @anuraghazra-->
-
-[![sad0xer's Top Most Used Languages](https://github-readme-statistics-sad0xer.vercel.app/api/top-langs/?username=sad0xer&theme=github_dark&langs_count=10&hide_border=false&border_radius=30.0&hide_title=false&title_color=0366d6&border_color=2f353b&show_icons=true&layout=pie&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GitHub Top Languages by Commit @Casper-->
 
