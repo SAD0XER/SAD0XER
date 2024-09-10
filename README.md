@@ -11,23 +11,23 @@
 
 # Hello, I am SARVESH DEVRUKHAKAR :wave::smiley:
 
-❤️‍🔥 A passionate **Web Development** enthusiast based in _Mumbai, India_.
+❤️‍🔥 A passionate **MERN Stack Web Development** enthusiast based in _Mumbai, India_.
 
-🌟 I love building robust and user-friendly **web websites** using <kbd>HTML</kbd>, <kbd>CSS</kbd> and <kbd>JavaScript</kbd>.
+🌟 I like to build **websites** using **MERN Stack**.
 
 🌱 I’m currently learning **MERN Stack Web Development** From :woman_teacher:<kbd>[**Shradha Khapra**](https://www.linkedin.com/in/shradha-khapra)</kbd>:woman_teacher:
 
-🎯 Target is to become a **MERN Stack Developer** then **MEAN Stack Developer** then **Software Engineer**.
+🎯 My target is to become a <kbd>**MERN Stack Developer**</kbd> then <kbd>**MEAN Stack Developer**</kbd> then <kbd>**Software Engineer**</kbd> and so on.
 
 ```
-This is my GitHub Profile, explore it further...!
+❤️‍🔥SET YOUR HEART ABLAZE❤️‍🔥 and 🔭explore it further...!😊
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshdevrukhakar)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-5A0D84?style=for-the-badge&logo=About.me&logoColor=white)](https://sad0xer.github.io)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/SAD0XER)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@SAD0XER)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black&txtColor=black)](https://www.hackerrank.com/profile/SAD0XER)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-5A0D84?style=for-the-badge&logo=About.me&logoColor=white)](https://sad0xer.github.io)
 
 </details>
 
