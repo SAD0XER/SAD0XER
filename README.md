@@ -19,10 +19,6 @@
 
 🎯 My target is to become a <kbd>**MERN Stack Developer**</kbd> then <kbd>**MEAN Stack Developer**</kbd> then <kbd>**Software Engineer**</kbd> and so on.
 
-```
-❤️‍🔥SET YOUR HEART ABLAZE❤️‍🔥 and 🔭explore it further...!😊
-```
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshdevrukhakar)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/SAD0XER)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@SAD0XER)
