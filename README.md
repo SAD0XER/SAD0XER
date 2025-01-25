@@ -19,7 +19,7 @@
 
 🎯 My target is to become a <kbd>**MERN Stack Developer**</kbd> then <kbd>**MEAN Stack Developer**</kbd> then <kbd>**Software Engineer**</kbd> and so on.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshdevrukhakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshdevrukhkar)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/SAD0XER)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@SAD0XER)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black&txtColor=black)](https://www.hackerrank.com/profile/SAD0XER)
@@ -41,7 +41,7 @@
 
 <!-- GitHub Readme Streak Stats @DenverCoder1-->
 
-[![GitHub Readme Streak Statistics](https://streak-stats.demolab.com?user=sad0xer&theme=highcontrast&hide_border=true&stroke=FFFFFF&border=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=BBBBBB&background=FFFFFF00&border_radius=100&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Readme Streak Statistics](https://github-readme-streak-stats-delta-teal.vercel.app?user=sad0xer&theme=highcontrast&hide_border=true&stroke=FFFFFF&border=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=BBBBBB&background=FFFFFF00&border_radius=100&mode=weekly)](https://git.io/streak-stats)
 
 <!-- GitHub Stats -->
 
